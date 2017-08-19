@@ -1,0 +1,26 @@
+Atun: E,A,D,G,B,E
+
+A: A,C#,E
+Am: A,C,E
+Adim: A,C,D#
+Aaug: A,C#,F
+Asus2: A,B,E
+Asus4: A,D,E
+
+A7: A,C#,E,G
+Am7: A,C,E,G
+Am7(b5): A,C,Eb,G
+Am7/add11: A,C,D,E,G
+AM7: A,C#,E,G#
+AmM7: A,C,E,G#
+Adim7: A,C,D#,F#
+Aaug7: A,C#,F,G
+AaugM7: A,C#,F,G#
+A7sus4: A,D,E,G
+
+A6: A,C#,E,F#
+Am6: A,C,E,F#
+A6add9: A,B,C#,E,F#
+
+Aadd9: A,B,Db,E
+AmM9: A,B,C,E,G#

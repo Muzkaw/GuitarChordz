@@ -1,0 +1,11 @@
+0-tuning: Atun
+
+1-chord: D#augM7
+
+2-usableFretNb: 10
+
+3-extension: 3
+
+4-empty: 1
+
+5-stringNb: 5
