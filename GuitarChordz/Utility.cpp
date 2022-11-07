@@ -23,10 +23,12 @@ int minArr(vector<int> arr)
 {
 	if (arr.size()>0)
 	{
-		int result = max(arr[0],1);
+		int result = arr[0];
 		for (int i(1); i < arr.size(); i++)
-			if (result > arr[i] && arr[i] > 0) result = arr[i];
-
+			if (arr[i] > 0 && (result == -1 || result > arr[i]))
+				result = arr[i];
+		if (result == -1)
+			result = 1;
 		return result;
 	}
 	else return 0;
